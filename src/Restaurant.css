@@ -1,0 +1,14 @@
+div{
+    margin: 0x;
+    padding: 0;
+}
+#col{
+    transition: .2s ease-in;
+}
+
+#col:hover{
+    transform:scale(1.02)
+}
+#link{
+    text-decoration: none;
+}
